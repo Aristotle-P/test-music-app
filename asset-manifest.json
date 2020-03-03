@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/test-music-app/static/css/main.c3c881e1.chunk.css",
+    "main.css": "/test-music-app/static/css/main.e5e71875.chunk.css",
     "main.js": "/test-music-app/static/js/main.66476d97.chunk.js",
     "main.js.map": "/test-music-app/static/js/main.66476d97.chunk.js.map",
     "runtime-main.js": "/test-music-app/static/js/runtime-main.b1464317.js",
@@ -8,15 +8,15 @@
     "static/js/2.f35bc0f4.chunk.js": "/test-music-app/static/js/2.f35bc0f4.chunk.js",
     "static/js/2.f35bc0f4.chunk.js.map": "/test-music-app/static/js/2.f35bc0f4.chunk.js.map",
     "index.html": "/test-music-app/index.html",
-    "precache-manifest.6ad0688907e6d4ef9c4d2d5993537699.js": "/test-music-app/precache-manifest.6ad0688907e6d4ef9c4d2d5993537699.js",
+    "precache-manifest.09171c15fe7baf7eb42ea7cfb061f8b3.js": "/test-music-app/precache-manifest.09171c15fe7baf7eb42ea7cfb061f8b3.js",
     "service-worker.js": "/test-music-app/service-worker.js",
-    "static/css/main.c3c881e1.chunk.css.map": "/test-music-app/static/css/main.c3c881e1.chunk.css.map",
+    "static/css/main.e5e71875.chunk.css.map": "/test-music-app/static/css/main.e5e71875.chunk.css.map",
     "static/js/2.f35bc0f4.chunk.js.LICENSE": "/test-music-app/static/js/2.f35bc0f4.chunk.js.LICENSE"
   },
   "entrypoints": [
     "static/js/runtime-main.b1464317.js",
     "static/js/2.f35bc0f4.chunk.js",
-    "static/css/main.c3c881e1.chunk.css",
+    "static/css/main.e5e71875.chunk.css",
     "static/js/main.66476d97.chunk.js"
   ]
 }
